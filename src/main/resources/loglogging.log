@@ -1,0 +1,6 @@
+2021-11-22 10:17:44 FATAL UsersManager:95 - CANT CONNECTION TO DB   java.sql.SQLSyntaxErrorException: Unknown database 'finaldb'
+  2021-11-22 10:18:56 FATAL UsersManager:95 - CANT CONNECTION TO DB   java.sql.SQLSyntaxErrorException: Unknown database 'finaldb'
+  2021-11-22 10:19:23 FATAL UsersManager:95 - CANT CONNECTION TO DB   java.sql.SQLSyntaxErrorException: Unknown database 'finaldb'
+  2021-11-22 10:19:30 FATAL UsersManager:95 - CANT CONNECTION TO DB   java.sql.SQLSyntaxErrorException: Unknown database 'finaldb'
+  2021-11-22 10:21:26 FATAL UsersManager:95 - CANT CONNECTION TO DB   java.sql.SQLSyntaxErrorException: Unknown database 'finaldb'
+  
